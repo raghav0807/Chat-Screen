@@ -26,6 +26,10 @@ Chat-SmartHire is an intuitive and feature-rich smart hiring platform designed t
 - Start a new chat, explore segments, and manage user profiles.
 - Enjoy the seamless and modern user interface.
 
+## Live Demo
+
+View the project live at: **[SmartHire Assessment](https://smart-hire-assesent.vercel.app/)**
+
 ## Scripts
 
 - **`npm run dev`**: Start the development server.
